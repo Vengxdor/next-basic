@@ -9,7 +9,7 @@ This is a Nextjs boilerplate using the app structure, import alias, tailwid and 
 
 To install the template run:
 ```
-npm i @vengxdor/next-basic
+npx @vengxdor/next-basic <project-name>
 ```
 
 ## What this template has:
